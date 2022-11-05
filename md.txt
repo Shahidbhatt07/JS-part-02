@@ -1,0 +1,3 @@
+In this series we will cover
+1. How javascript works
+2. DOM
