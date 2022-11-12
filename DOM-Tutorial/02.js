@@ -19,6 +19,10 @@ console.log(mainHeading2);
 const header = document.querySelector(".header");
 console.log(header);
 
+//selecting multiple things
+const mainHeading3 = document.querySelector("div.headline h2");
+console.log(mainHeading3);
+
 //3. querySelectorAll
 //now if i have a class which is associated with more than 1 element, and i want get them all
 const navItem = document.querySelectorAll(".nav-item");
