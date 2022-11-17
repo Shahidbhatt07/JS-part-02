@@ -15,4 +15,5 @@ console.log(bgDark); //false
 
 //toggle -> it will add a new class if that class is not already present there or it will remove that class if already present
 // sectionTodo.classList.add("bg-dark");
-// sectionTodo.classList.toggle("bg-dark"); 
+// sectionTodo.classList.toggle("bg-dark");
+
